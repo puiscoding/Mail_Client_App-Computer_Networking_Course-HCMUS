@@ -1,7 +1,7 @@
 # Email Client Application
 
 ## Overview
-This is a project in the course Net Working aiming to understand socket and how the protocol SMTP and POP3 work to send and receive emails.  
+This is a project in the course Computer Networking, aiming to understand socket and how the protocol SMTP and POP3 work to send and receive emails.  
 
 ## Features
 - **Sign Up**: Users can sign up with any email domains and they are not need to be real because we use a Test Mail Sever which allows any email to access. The only reason why you need to create account is that this Mail Client App requires an account :>
