@@ -14,7 +14,7 @@ This is a project in the course Computer Networking, aiming to understand socket
 - **Read email**: Your mails are filtered into 6 folders: Inboxes, Sent, Importance, Work, Project, Spam. You can read your mail in the respective folder. 
 - **Log out**: Log out to switch to another account. 
 
-## Installation
+## Installation and Run
 1. Clone the repository: <space> <space>
    - git clone https://github.com/puiscoding/Mail_Client_App-Computer_Networking_Course-HCMUS/
 2. Config the Test Mail Sever
