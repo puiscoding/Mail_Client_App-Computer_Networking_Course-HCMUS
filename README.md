@@ -27,7 +27,11 @@ This is a project in the course Computer Networking, aiming to understand socket
    - In the Source folder, type the following command in the terminal to run the app:
     python mail_client.py 
    - (You need to have Python to run the app:>. If you don't, you can install Python here: https://www.python.org/downloads/)
-     
+
+## Contributors 
+- Đinh Nguyễn Quỳnh Hương
+- Võ Lê Việt Tú
+- Nguyễn Ngọc Phương Uyên 
 ###### p/s: dont judge our messy code (actually you can) :>
 
 
