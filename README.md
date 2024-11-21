@@ -19,7 +19,7 @@ This is a project in the course Computer Networking, aiming to understand socket
    - git clone https://github.com/puiscoding/Mail_Client_App-Computer_Networking_Course-HCMUS/
 2. Config the Test Mail Sever
    - Open the file "test-mail-server-1.0.jar" in the Source/Sever folder (This is the Test Mail Sever running in Java environment. If you dont have Java installed yet, you may need to install Java. Here where you can install Java: https://www.java.com/download/ie_manual.jsp)
-   - After openning the Test Mail Sever, change the SMTP port to 2225, change the POP3 port to 3335. Don't forget to click on the Pause button and the Tick box next to the port to make the port change apply.
+   - After openning the Test Mail Sever, change the SMTP port to 2225, change the POP3 port to 3335. Don't forget to click on the Pause button next to the port to make the port run.
 3. Navigate to the Source directory:
    - In the root folder, change dir to the Source folder by typing the following command in the terminal:
     cd source
