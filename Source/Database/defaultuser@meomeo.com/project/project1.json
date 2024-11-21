@@ -1,0 +1,10 @@
+{
+    "Sender": "defaultuser@meomeo.com",
+    "To": "defaultuser@meomeo.com",
+    "Cc": "",
+    "Bcc": "",
+    "Subject": "web development",
+    "Content": "this mail should be filtered to the Project folder\n\r\n",
+    "Attachments": [],
+    "Read": false
+}

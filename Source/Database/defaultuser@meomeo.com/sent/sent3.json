@@ -1,0 +1,10 @@
+{
+    "Sender": "defaultuser@meomeo.com",
+    "To": "defaultuser@meomeo.com",
+    "Cc": "",
+    "Bcc": [],
+    "Subject": "test filter",
+    "Content": "meeting. this mail should be filtered to the Work folder\n",
+    "Attachments": [],
+    "Read": false
+}

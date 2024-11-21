@@ -1,0 +1,10 @@
+{
+    "Sender": "defaultuser@meomeo.com",
+    "To": "defaultuser@meomeo.com",
+    "Cc": "",
+    "Bcc": "",
+    "Subject": "test filter",
+    "Content": "virus. this mail should be filtered to the Spam folder\n\r\n",
+    "Attachments": [],
+    "Read": true
+}

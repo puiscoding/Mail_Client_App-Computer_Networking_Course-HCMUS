@@ -1,0 +1,30 @@
+{
+    "General": {
+        "ServerName": "127.0.0.1",
+        "SMTP_PORT": 2225,
+        "POP3_PORT": 3335
+    },
+    "User": {
+        "defaultuser@meomeo.com": {
+            "password": "12345678",
+            "last_retrieve": 4
+        }
+    },
+    "Autoload": 10,
+    "Filter": {
+        "Subject": {
+            "urgent": "important",
+            "ASAP": "important",
+            "web": "project",
+            "adveertisement": "virus"
+        },
+        "Content": {
+            "report": "work",
+            "meeting": "work",
+            "hack": "spam",
+            "crash": "spam",
+            "virus": "spam",
+            "backend": "project"
+        }
+    }
+}

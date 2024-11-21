@@ -1,0 +1,10 @@
+{
+    "Sender": "defaultuser@meomeo.com",
+    "To": "defaultuser@meomeo.com",
+    "Cc": "",
+    "Bcc": [],
+    "Subject": "urgent",
+    "Content": "this mail should be filtered to the Importance folder\n",
+    "Attachments": [],
+    "Read": false
+}
