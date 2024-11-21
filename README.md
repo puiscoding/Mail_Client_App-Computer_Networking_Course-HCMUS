@@ -10,7 +10,7 @@ This is a project in the course Computer Networking, aiming to understand socket
     - password: 12345678
 
 - **Compose email**: You can write email with the app's (un)friendly interface :>
-- **Send email**: You can send email to any email account, even it doesn't exist. You can check wether the mail is sent in the Test Mail Sever, in the Mailboxes. 
+- **Send email**: You can send email to any email account, even it doesn't exist. You can check wether the mail is sent in the Test Mail Sever's Mailboxes. 
 - **Read email**: Your mails are filtered into 6 folders: Inboxes, Sent, Importance, Work, Project, Spam. You can read your mail in the respective folder. 
 - **Log out**: Log out to switch to another account. 
 
